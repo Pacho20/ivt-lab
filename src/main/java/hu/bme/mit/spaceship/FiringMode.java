@@ -5,5 +5,5 @@ package hu.bme.mit.spaceship;
 *
 */
 public enum FiringMode {
-  SINGLE, ALL, RANDOM
+  SINGLE, ALL, RANDOM, LASER
 }
